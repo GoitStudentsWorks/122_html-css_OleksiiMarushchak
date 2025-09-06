@@ -1,0 +1,1 @@
+{"version":3,"mappings":"otDAAA,OAAO,2BAAa,YACpB,OAAO,4BAAc","names":[],"ignoreList":[],"sources":["../src/main.js"],"sourcesContent":["import('/js/menu.js');\nimport('/js/modal.js');\n"],"file":"index.js"}
